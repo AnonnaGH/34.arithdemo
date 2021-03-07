@@ -11,7 +11,8 @@ package main
 	
 	
 	// arithmetic operation
-	// addition
+	
+	 // addition
 	c := a + b
 	fmt.Printf("%d + %d = %d \n",a,b,c)
 	
@@ -29,9 +30,5 @@ package main
         // multiplication
         f := a * b
         fmt.Printf("%d * %d = %d \n",a,b,f)
-
- 
- 
- 
  
  }
